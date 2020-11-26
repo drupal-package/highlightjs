@@ -1,0 +1,6 @@
+{
+  "name": "drupal-package/highlightjs",
+  "description": "Allows to clone the highlightjs/highlight.js repository",
+  "type": "drupal-library",
+  "keywords": ["plugin", "drupal-library", "highlightjs"]
+}
